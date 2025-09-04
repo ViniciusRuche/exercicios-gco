@@ -14,3 +14,6 @@ Branches de bugs
 * bug/erro-a1
 * bug/erro-a2
 * bug/erro-a3
+
+Na pasta \html, contem os arquivos das paginas separadas
+No index.html paginas princinpal (resumo de tudo)
